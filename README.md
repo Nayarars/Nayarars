@@ -1,10 +1,36 @@
-- 👋 Hey, eu sou a Nayara Souto, mas pode me chamar de Nay :)
-- 👀 I’m  interessado na área de análise de dados 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on análise de dados para resolução de problemas 
-- 📫 How to reach me pelo e-mail :nayararod7@gmail.com
+# 👋 Olá, eu sou a Nayara
 
-<!---
-Nayarars/Nayarars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **Pós-graduação em Cibersegurança e Governança de Dados** – PUC Minas  
+🔐 Focada em segurança ofensiva e defensiva, proteção de dados e privacidade.  
+🌱 Atualmente aprendendo: Redes, Ferramentas de Segurança (Nmap, Wireshark, Snort) e LGPD.  
+🚀 Objetivo: Desenvolver habilidades práticas para atuar como Analista de Segurança da Informação.
+
+---
+
+## 📂 Meus Projetos e Estudos
+
+- 🛡️ **Laboratórios de Segurança** – Relatórios e scripts de testes em ambientes controlados.  
+- 📊 **Análises e Documentações** – Resumos técnicos, write-ups de CTFs e anotações sobre ferramentas.  
+- 🌐 **Projetos Acadêmicos** – Trabalhos e estudos ligados à governança de dados e compliance.
+
+> 📌 *Todos os projetos aqui são baseados em estudos e laboratórios controlados, respeitando normas éticas.*
+
+---
+
+## 🛠️ Tecnologias e Ferramentas que estou aprendendo
+
+- **Segurança:** Nmap, Wireshark, Snort, Metasploit  
+- **Sistemas:** Linux (CLI), Windows Server  
+- **Linguagens:** Python (iniciante)  
+- **Governança e Compliance:** LGPD, Marco Civil da Internet
+
+---
+
+## 📫 Contato
+
+- 💼 [LinkedIn](www.linkedin.com/in/nayarasouto7)  
+- ✉️ **E-mail:** nayararod7@gmail.com
+
+---
+
+> *“A segurança não é um produto, é um processo.” – Bruce Schneier*
