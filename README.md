@@ -1,9 +1,11 @@
 # 👋 Olá, eu sou a Nayara
-🎓 Graduada em **Ciências Sociais** com foco em análise de dados, tecnologia e sociedade. 
-🎓 **Pós-graduação em Cibersegurança e Governança de Dados** – PUC Minas.
-🔐 Focada em segurança ofensiva e defensiva, proteção de dados e privacidade.  
-🌱 Atualmente aprendendo: Redes, Ferramentas de Segurança (Nmap, Wireshark, Snort) e LGPD.  
-🚀 Objetivo: Desenvolver habilidades práticas para atuar como Analista de Segurança da Informação.
+
+🎓 Graduada em **Ciências Sociais**, com foco em análise de dados, tecnologia e sociedade.  
+🎓 Pós-graduanda em **Cibersegurança e Governança de Dados** – PUC Minas.  
+🔐 Focada em **segurança ofensiva e defensiva**, proteção de dados e privacidade.  
+🌱 Atualmente aprendendo: **Redes**, ferramentas de segurança (*Nmap, Wireshark, Snort*) e **LGPD**.  
+🚀 Objetivo: Desenvolver habilidades práticas para atuar como **Analista de Segurança da Informação**.
+
 
 ---
 
