@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou a Nayara
-🎓 Graduada em **Ciências Sociais** com foco em análise de dados, tecnologia e sociedade.  
+🎓 Graduada em **Ciências Sociais** com foco em análise de dados, tecnologia e sociedade. 
 🎓 **Pós-graduação em Cibersegurança e Governança de Dados** – PUC Minas.
 🔐 Focada em segurança ofensiva e defensiva, proteção de dados e privacidade.  
 🌱 Atualmente aprendendo: Redes, Ferramentas de Segurança (Nmap, Wireshark, Snort) e LGPD.  
